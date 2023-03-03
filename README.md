@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-   ![kdosiodjinud](https://github.com/kdosiodjinud/homeassistant-integrations/raw/master/homeassistant-github-actions-runner/doc/click-settings.png)
-
-
 <!--
 **kdosiodjinud/kdosiodjinud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
