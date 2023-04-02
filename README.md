@@ -5,3 +5,9 @@
 - 💬 Ask me about programming, smart-home, FPV drones
 - ⚡ Fun fact: Time is the most valuable thing a man can spend.
 
+---
+
+### 📺 Latest YouTube Videos
+
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
