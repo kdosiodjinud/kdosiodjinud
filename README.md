@@ -15,7 +15,6 @@
       <a href="https://github.com/kdosiodjinud?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/kdosiodjinud?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
-<br /><br />
 
 ---
 <br />
