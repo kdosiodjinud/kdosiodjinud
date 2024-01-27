@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning **AWS (scalable services, deployment process, CDK, pricing, etc...)**
 - 💬 Ask me about programming, smart-home, FPV drones
 - ⚡ Fun fact: Time is the most valuable thing a man can spend
+- LinkedIn: [https://www.linkedin.com/in/jankuthan/](https://www.linkedin.com/in/jankuthan/)
 
    <p align="left">
    <a target="_blank" href="https://youtube.com/channel/UCgP6chBwftB9rAi52kZzCrg?sub_confirmation=1">
