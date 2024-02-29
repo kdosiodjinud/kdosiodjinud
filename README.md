@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [jobs.cz](https://www.jobs.cz/) as Lead Engineer, previously [klikpojisteni.cz](https://www.klikpojisteni.cz)
+- 🔭 I’m currently working (main employment relationship) on [jobs.cz](https://www.jobs.cz/) as Lead Engineer, previously [klikpojisteni.cz](https://www.klikpojisteni.cz)
+- 🚀 I’m currently working on my project [imagedit.io](https://imagedit.io)
 - 🌱 I’m currently learning **AWS (scalable services, deployment process, CDK, pricing, etc...)**
 - 💬 Ask me about programming, smart-home, FPV drones
 - ⚡ Fun fact: Time is the most valuable thing a man can spend
