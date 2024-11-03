@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as a Domain Architect at [AlmaMedia](https://www.almamedia.fi/), focusing on a network of dashboards including [prace.cz](https://prace.cz), [jobs.cz](https://jobs.cz), and others. Previously, I was at [klikpojisteni.cz](https://klikpojisteni.cz)
+- 🔭 I’m currently working as a Domain Architect at [AlmaCareer](https://www.almacareer.com/), focusing on a network of dashboards including [prace.cz](https://prace.cz), [jobs.cz](https://jobs.cz), and others. Previously, I was at [klikpojisteni.cz](https://klikpojisteni.cz)
 - 🚀 I recently sold my project [imagedit.io](https://imagedit.io) and am now working on my next project, [growup.netowrk](https://growup.network)
 - 🌱 I’m currently learning **AWS (scalable services, deployment process, CDK, pricing, etc...)**
 - 💬 Ask me about programming, smart-home, FPV drones
