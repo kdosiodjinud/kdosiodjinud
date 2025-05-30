@@ -1,12 +1,11 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as a Domain Architect at [AlmaCareer](https://www.almacareer.com/), focusing on a network of dashboards including [prace.cz](https://prace.cz), [jobs.cz](https://jobs.cz), and others. Previously, I was at [klikpojisteni.cz](https://klikpojisteni.cz)
-- 🚀 I recently sold my project [imagedit.io](https://imagedit.io) and am now working on my next project, [growup.netowrk](https://growup.network)
-- 🌱 I’m currently learning **AWS (scalable services, deployment process, CDK, pricing, etc...)**
-- 💬 Ask me about programming, smart-home, FPV drones
+- 🔭 I’m currently working as a Tribe Architect at [AlmaCareer](https://www.almacareer.com/), focusing on a network of jobportals including [prace.cz](https://prace.cz), [jobs.cz](https://jobs.cz), and others. Previously, I was at [klikpojisteni.cz](https://klikpojisteni.cz)
+- 🚀 I recently sold my project [imagedit.io](https://imagedit.io) and am now working on my next project, [story-creator.com](https://story-creator.com) and [growup.netowrk](https://growup.network)
+- 🌱 I’m currently learning **AWS (scalable services, deployment process, CDK, pricing, etc...)** and AI Tools (business cases & developer experience)
+- 💬 Ask me about programming, smart-home, FPV drones, 3D print
 - ⚡ Fun fact: Time is the most valuable thing a man can spend
 - LinkedIn: [https://www.linkedin.com/in/jankuthan/](https://www.linkedin.com/in/jankuthan/)
-- HeroHero: [https://herohero.co/jankuthan](https://herohero.co/jankuthan)
 
    <p align="left">
    <a target="_blank" href="https://youtube.com/channel/UCgP6chBwftB9rAi52kZzCrg?sub_confirmation=1">
